@@ -1,0 +1,12 @@
+.nav-link{
+  color: white;
+  text-decoration: none;
+  &__dark{
+    color: black
+  }
+}
+.active{
+  color:deeppink;
+  // text-decoration: underline;
+  border-bottom: 2px solid white;
+}
